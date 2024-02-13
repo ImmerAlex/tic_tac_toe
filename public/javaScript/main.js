@@ -1,5 +1,4 @@
 const $ = (selector) => document.querySelector(selector);
-// @ts-ignore
 const $$ = (selector) => document.getElementById(selector);
 
 class Grid {
